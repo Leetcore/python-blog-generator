@@ -1,0 +1,2 @@
+beautifulsoup4==4.11.1
+toml==0.10.2
